@@ -1,2 +1,2 @@
 # trisverse
-console socket tris
+console socket tris with artificial intelligence
